@@ -1,6 +1,6 @@
 module.exports = {
   presets: [
-    require("babel-preset-es2015"),
+    require("babel-preset-es2017"),
     require("babel-preset-react")
   ],
   plugins: [
