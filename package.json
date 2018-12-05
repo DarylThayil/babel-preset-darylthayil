@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-darylthayil",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "My personal babel presets",
   "main": "index.js",
   "scripts": {
