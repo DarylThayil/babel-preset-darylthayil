@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = () => ({
   presets: [
     require("@babel/preset-env"),
     require("@babel/preset-react")
@@ -7,5 +7,4 @@ module.exports = {
     require("babel-plugin-add-module-exports"),
     require("babel-plugin-transform-class-properties")
   ]
-}
-
+});
